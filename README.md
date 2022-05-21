@@ -2,7 +2,10 @@
 <p>영어 단어장</p>
 
 <h2>사용 스택</h2>
-<img src="https://img.shields.io/badge/react-50BCDF?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-50BCDF?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-C4302B?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-50BCDF?style=flat-square&logo=react&logoColor=white"/>
 
 <h3>기능</h3>
 <ul>
