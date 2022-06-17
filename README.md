@@ -3,9 +3,9 @@
 
 ## 기술 스택
 <img src="https://img.shields.io/badge/React-50BCDF?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-C4302B?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-50BCDF?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-C4302B?style=flat-square&logo=HTML&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-50BCDF?style=flat-square&logo=CSS&logoColor=white"/>
 
 ### 기능
 <ul>
